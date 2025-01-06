@@ -1,4 +1,4 @@
-# File Manager 
+# File-Manager 
 
 This Python script allows users to create files, specify content, and organize them into directories based on their file extensions. It helps automate the process of creating and categorizing files.
 
