@@ -15,6 +15,8 @@ This Python script allows users to create files, specify content, and organize t
 ## Additional Info 
 
 To add additional file extensions, simply update the config.json file. Please ensure that all the files are kept in the same directory.
+
+
 ## Deployment
 
 To deploy this project run
